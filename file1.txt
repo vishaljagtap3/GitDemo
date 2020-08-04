@@ -1,1 +1,2 @@
 This is a demo text file to check if the version control system works well or not. this has to do nothing with programming however I will be using Git to share and create respositotries with students as this will be good to build my profile as well.
+this is a new line i am adding to test how this file will be synched with GitHub server. this is interesting to see how it works. Human mind works in mystorious way the fingers runs fast on keyboard.
